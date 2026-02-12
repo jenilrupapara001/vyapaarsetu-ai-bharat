@@ -246,7 +246,7 @@ The project follows a bottom-up implementation approach with 31 tasks organized 
 - Integration testing
 - **Final Checkpoint**: Complete system verification
 
-See [tasks.md](https://github.com/jenilrupapara/vyapaarsetu-ai-bharat/tasks.md) for detailed task breakdown.
+See [tasks.md]([https://github.com/jenilrupapara001/vyapaarsetu-ai-bharat/blob/main/tasks.md]) for detailed task breakdown.
 
 ## Target Users
 
